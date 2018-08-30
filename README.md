@@ -22,7 +22,7 @@ https://github.com/foolwood/benchmark_results
 * **"Few-Shot Image Recognition by Predicting Parameters From Activations"**, Siyuan Qiao, Chenxi Liu, Wei Shen, Alan L. Yuille, CVPR2018. [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Qiao_Few-Shot_Image_Recognition_CVPR_2018_paper.pdf)] [[github](https://github.com/joe-siyuan-qiao/FewShot-CVPR)]
 
 
-* **"Matching Networks for One Shot Learning"**, Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra, NIPS2016. [[paper](https://arxiv.org/pdf/1606.04080.pdf)] [[github](https://github.com/AntreasAntoniou/MatchingNetworks]
+* **"Matching Networks for One Shot Learning"**, Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra, NIPS2016. [[paper](https://arxiv.org/pdf/1606.04080.pdf)] [[github](https://github.com/AntreasAntoniou/MatchingNetworks)]
 
 
 * **"Learning to Remember Rare Events"**, Lukasz Kaiser, Ofir Nachum, Aurko Roy, and Samy Bengio, ICLR2017. [[paper](https://arxiv.org/pdf/1703.03129.pdf)] [[github](https://github.com/ageron/tensorflow-models/tree/master/learning_to_remember_rare_events)]
