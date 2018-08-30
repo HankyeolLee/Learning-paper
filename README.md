@@ -27,6 +27,6 @@ https://github.com/foolwood/benchmark_results
 
 * **"Learning to Remember Rare Events"**, Lukasz Kaiser, Ofir Nachum, Aurko Roy, and Samy Bengio, ICLR2017. [[paper](https://arxiv.org/pdf/1703.03129.pdf)]
 
-
+* **"Learning feed-forward one-shot learners**, Luca Bertinetto, João F. Henriques, Jack Valmadre, Philip H. S. Torr, Andrea Vedaldi, NIPS2016. [[paper](https://arxiv.org/pdf/1606.05233.pdf)]
 # Memory
 
