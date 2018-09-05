@@ -7,7 +7,7 @@ https://github.com/foolwood/benchmark_results
 
 
 # One-shot, few-shot learning
-###* **"CLEAR: Cumulative LEARning for One-Shot One-Class Image Recognition"**, Kozerawski, Jedrzej and Turk, Matthew, CVPR2018. [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Kozerawski_CLEAR_Cumulative_LEARning_CVPR_2018_paper.pdf)] [[github](https://github.com/JKozerawski/CLEAR-osoc)]
+### **"CLEAR: Cumulative LEARning for One-Shot One-Class Image Recognition"**, Kozerawski, Jedrzej and Turk, Matthew, CVPR2018. [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Kozerawski_CLEAR_Cumulative_LEARning_CVPR_2018_paper.pdf)] [[github](https://github.com/JKozerawski/CLEAR-osoc)]
 
 * SVM
 
