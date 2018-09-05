@@ -61,5 +61,8 @@ https://github.com/foolwood/benchmark_results
 * link : NIPS2016. [[paper](https://arxiv.org/pdf/1606.05233.pdf)]
 
 
-# Memory
-
+# Spatial information
+### **Diversity Regularized Spatiotemporal Attention for Video-based Person Re-identification**
+* Authors : Shuang Li, Slawomir Bak, Peter Carr, Xiaogang Wang
+* link : CVPR2018. [[paper](https://arxiv.org/pdf/1803.09882.pdf)] [[github](https://github.com/ShuangLI59/Diversity-Regularized-Spatiotemporal-Attention)]
+* Automatically divide parts by attention
