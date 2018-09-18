@@ -76,3 +76,5 @@ https://github.com/foolwood/benchmark_results
 * Authors : Fanyi Xiao, Yong Jae Lee 
 * link : ECCV2018. [[paper](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Fanyi_Xiao_Object_Detection_with_ECCV_2018_paper.pdf)] [[project](http://fanyix.cs.ucdavis.edu/project/stmn/project.html)]
 * Memory + Aligned method for video object detection
+
+# Attention, Part-based method
