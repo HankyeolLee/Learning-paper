@@ -66,3 +66,12 @@ https://github.com/foolwood/benchmark_results
 * Authors : Shuang Li, Slawomir Bak, Peter Carr, Xiaogang Wang
 * link : CVPR2018. [[paper](https://arxiv.org/pdf/1803.09882.pdf)] [[github](https://github.com/ShuangLI59/Diversity-Regularized-Spatiotemporal-Attention)]
 * Automatically divide parts by attention
+
+### **Object Detection in Video with Spatiotemporal Sampling Networks**
+* Authors : Gedas Bertasius, Lorenzo Torresani, Jianbo Shi
+* link : ECCV2018. [[papert](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Gedas_Bertasius_Object_Detection_in_ECCV_2018_paper.pdf)]
+* Deformable convolution + aggregate the feature along with temporal axis
+
+### **Video Object Detection with an Aligned Spatial-Temporal Memory**
+* Authors : Fanyi Xiao, Yong Jae Lee 
+* link : ECCV2018. [[paper]()https://eccv2018.org/openaccess/content_ECCV_2018/papers/Fanyi_Xiao_Object_Detection_with_ECCV_2018_paper.pdf] [[project](http://fanyix.cs.ucdavis.edu/project/stmn/project.html)]
