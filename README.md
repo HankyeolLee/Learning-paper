@@ -61,7 +61,7 @@ https://github.com/foolwood/benchmark_results
 * link : NIPS2016. [[paper](https://arxiv.org/pdf/1606.05233.pdf)]
 
 
-# Spatial information
+# Spatial, temporal information
 ### **Diversity Regularized Spatiotemporal Attention for Video-based Person Re-identification**
 * Authors : Shuang Li, Slawomir Bak, Peter Carr, Xiaogang Wang
 * link : CVPR2018. [[paper](https://arxiv.org/pdf/1803.09882.pdf)] [[github](https://github.com/ShuangLI59/Diversity-Regularized-Spatiotemporal-Attention)]
@@ -77,4 +77,13 @@ https://github.com/foolwood/benchmark_results
 * link : ECCV2018. [[paper](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Fanyi_Xiao_Object_Detection_with_ECCV_2018_paper.pdf)] [[project](http://fanyix.cs.ucdavis.edu/project/stmn/project.html)]
 * Memory + Aligned method for video object detection
 
-# Attention, Part-based method
+### **Object Detection in Video with Spatiotempor Sampling Networks**
+* Authors : Gedas Bertasius, Lorenzo Torresani, and Jianbo Shi
+* link : ECCV2018. [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Gedas_Bertasius_Object_Detection_in_ECCV_2018_paper.pdf)]
+* deformable convolution
+
+# Attention, Part-based method, Occlusion
+### **Beyond Part Models: Person Retrieval with Refined Part Pooling**
+* Authors : Yifan Sun, Liang Zheng, Yi Yang, Qi Tian, and Shengjin Wang1
+* link : ECCV2018. [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yifan_Sun_Beyond_Part_Models_ECCV_2018_paper.pdf)] [[github](https://github.com/huanghoujing/beyond-part-models)]
+* pre-defined part
