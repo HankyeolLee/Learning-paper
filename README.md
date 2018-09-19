@@ -87,3 +87,8 @@ https://github.com/foolwood/benchmark_results
 * Authors : Yifan Sun, Liang Zheng, Yi Yang, Qi Tian, and Shengjin Wang1
 * link : ECCV2018. [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yifan_Sun_Beyond_Part_Models_ECCV_2018_paper.pdf)] [[github](https://github.com/huanghoujing/beyond-part-models)]
 * pre-defined part
+
+### **Deep Feature Factorization For Concept Discovery**
+* Authors : Edo Collins, Radhakrishna Achanta, Sabine Susstrunk
+* link : ECCV2018 [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Edo_Collins_Deep_Feature_Factorization_ECCV_2018_paper.pdf)]
+* Non-negative factorization for common semantic part detections
